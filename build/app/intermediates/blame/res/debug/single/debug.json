@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/android/app/src/main/res/drawable/launch_background.xml"
     },
     {
-        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
-        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/android/app/src/main/res/drawable/launch_background.xml"
+        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

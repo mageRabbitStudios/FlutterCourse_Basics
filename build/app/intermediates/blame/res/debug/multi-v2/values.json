@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
