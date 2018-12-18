@@ -1,4 +1,4 @@
-#Mon Dec 17 16:24:39 GMT 2018
+#Tue Dec 18 15:12:09 GMT 2018
 base.0=/Users/stanislavkinzl/Documents/FlutterProjects/flutter_app_test2/FlutterCourse_Basics/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
